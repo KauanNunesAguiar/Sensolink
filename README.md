@@ -10,6 +10,13 @@ Cada subprojeto possui seu próprio README com instruções de instalação e us
 
 Todos os arquivos de interação com o cliente (reuniões, feedbacks) e as apresentações do projeto também estão armazenados neste repositório.
 
+## Membros da equipe
+- Elias Enns
+- Kauan Nunes Aguiar
+- Michel Almeida da Rosa
+- Lucas Francelino Meller
+- Lucas Zilli Mariot
+
 ## Logo
 ![Logo Sensolink](arquivos/SensoLink.svg)
 ## Links dos Repositórios
