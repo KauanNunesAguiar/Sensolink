@@ -26,3 +26,4 @@ Todos os arquivos de interação com o cliente (reuniões, feedbacks) e as apres
 - **Firebase**
 - **CorelDRAW**
 - **ESP32 SDK**
+- **Python**
