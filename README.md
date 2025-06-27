@@ -15,7 +15,6 @@ Todos os arquivos de interação com o cliente (reuniões, feedbacks) e as apres
 - Kauan Nunes Aguiar
 - Michel Almeida da Rosa
 - Lucas Francelino Meller
-- Lucas Zilli Mariot
 
 ## Logo
 ![Logo Sensolink](arquivos/SensoLink.svg)
@@ -23,7 +22,6 @@ Todos os arquivos de interação com o cliente (reuniões, feedbacks) e as apres
 
 - Hardware/Firmware ESP32: https://github.com/L3mitch/SensoLink_Hardware
 - Aplicativo Mobile: https://github.com/LucasMeller13/sensolink
-- Backend Python: [placeholder]
 
 ## Ferramentas e Tecnologias Utilizadas
 
